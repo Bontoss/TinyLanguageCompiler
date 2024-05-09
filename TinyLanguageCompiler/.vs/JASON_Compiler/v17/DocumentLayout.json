@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\TinyLanguageCompiler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|E:\\Projects\\TinyLanguageCompiler\\jason_compiler\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|solutionrelative:jason_compiler\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|E:\\Projects\\TinyLanguageCompiler\\jason_compiler\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|solutionrelative:jason_compiler\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|e:\\projects\\tinylanguagecompiler\\jason_compiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|solutionrelative:jason_compiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "E:\\Projects\\TinyLanguageCompiler\\JASON_Compiler\\Parser.cs",
+              "RelativeDocumentMoniker": "JASON_Compiler\\Parser.cs",
+              "ToolTip": "E:\\Projects\\TinyLanguageCompiler\\JASON_Compiler\\Parser.cs",
+              "RelativeToolTip": "JASON_Compiler\\Parser.cs",
+              "ViewState": "AQIAABsCAAAAAAAAAAAUwMkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:31:43.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "E:\\Projects\\TinyLanguageCompiler\\JASON_Compiler\\Scanner.cs",
+              "RelativeDocumentMoniker": "JASON_Compiler\\Scanner.cs",
+              "ToolTip": "E:\\Projects\\TinyLanguageCompiler\\JASON_Compiler\\Scanner.cs",
+              "RelativeToolTip": "JASON_Compiler\\Scanner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:31:43.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\TinyLanguageCompiler\\JASON_Compiler\\Program.cs",
+              "RelativeDocumentMoniker": "JASON_Compiler\\Program.cs",
+              "ToolTip": "E:\\Projects\\TinyLanguageCompiler\\JASON_Compiler\\Program.cs",
+              "RelativeToolTip": "JASON_Compiler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:31:43.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
