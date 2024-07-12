@@ -1,8 +1,6 @@
 # TinyLanguage Compiler
-The TinyLanguage Compiler is an implementation of a parser and scanner for a simple language called TinyLanguage. It was developed as part of a Compiler Theory course project.
-
 ## Description
-The TinyLanguage Compiler project aims to implement a basic compiler for TinyLanguage, a simple programming language with a limited set of features. The compiler consists of a scanner (lexical analyzer) and a parser (syntax analyzer) to convert source code written in TinyLanguage into executable machine code or an intermediate representation.
+The TinyLanguage Compiler is a project from a Compiler Theory course, implementing a parser and scanner for TinyLanguage, a simple programming language. It includes a lexical analyzer (scanner) and a syntax analyzer (parser) to convert TinyLanguage source code into executable machine code or an intermediate representation.
 
 ## Features
 * **Scanner (Lexical Analyzer):** Recognizes and tokenizes input source code into a stream of tokens.
